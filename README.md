@@ -3,9 +3,10 @@
 
 
 <p align='center'>
-<a href="https://https://www.linkedin.com/in/shantanu-srivastava-7814981a4/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-<a href="https://twitter.com/Santa_0809"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shantanu-srivastava-7814981a4/"><img height="30" src="https://github.com/santaaastic/santaaastic/blob/main/linkedin.png?raw=true"></a>
+<a href="https://https://learnwithsanta.wordpress.com/"><img height="30" src="https://github.com/santaaastic/santaaastic/blob/main/wordpress.png?raw=true"></a>
+<a href="https://twitter.com/Santa_0809"><img height="30" src="https://github.com/santaaastic/santaaastic/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/"><img height="30" src="https://github.com/santaaastic/santaaastic/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 
