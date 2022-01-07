@@ -9,24 +9,20 @@
 <a href="https://www.instagram.com/"><img height="30" src="https://github.com/santaaastic/santaaastic/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
 
+<br />
+
+**I educe data and carve out amazing meaningful stories from it.**
 
 
+**Did you just ask about me? ⬇️ Here you go!**
 
+- 🎓 Persuing Masters in Management from Technical University of Munich. Primarily learning concepts related to Economics, Finance, Management and Business Analytics.
 
+- 💼 👨‍💻 I have worked as Senior Analyst at Synchrony Financial for 2.75 years in Acquisition Fraud Strategy development team where I've applied multiple analytical tools and       techniques to suppress True Name Fraud.
 
+- 🛠️ SAS, Python, R, Excel, MBDT 
 
-Hi there 👋
-<!--
-**santaaastic/santaaastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ❤️ Learning something new everyday.
 
-Here are some ideas to get you started:
+- 📧 Reach out to me using any of the social media links given above(please click on the icons)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
