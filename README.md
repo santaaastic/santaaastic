@@ -11,7 +11,7 @@
 
 <br />
 
-**I educe data and carve out amazing meaningful stories from it.**
+**I educe data and carve out amazing meaningful stories from it...**
 
 
 **Did you just ask about me? ⬇️ Here you go!**
@@ -20,7 +20,7 @@
 
 - 💼 👨‍💻 I have worked as Senior Analyst at Synchrony Financial for 2.75 years in Acquisition Fraud Strategy development team where I've applied multiple analytical tools and       techniques to suppress True Name Fraud.
 
-- 🛠️ SAS, Python, R, Excel, MBDT 
+- 🛠️ SAS, Python, R, Excel, MBDT, Tableau
 
 - ❤️ Learning something new everyday.
 
